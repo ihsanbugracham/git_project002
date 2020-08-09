@@ -15,6 +15,8 @@ public class FirstClass {
 		System.out.println("Eyvallah kardesim");
 		
 		System.out.println("First commit from ihsan branch");
+		
+		System.out.println("The second from local ihsan");
 	}
 
 }
