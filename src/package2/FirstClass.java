@@ -13,6 +13,8 @@ public class FirstClass {
 		System.out.println("adamsin kardesim");
 
 		System.out.println("Eyvallah kardesim");
+		
+		System.out.println("First commit from ihsan branch");
 	}
 
 }
